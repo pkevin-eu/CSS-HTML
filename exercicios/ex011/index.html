@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video em HTML5</title>
+</head>
+<body>
+    <h1>Inserindo vídeos:</h1>
+    <p>Este vídeo se encontra hospedade no servidor:</p>
+    <video src="pexels-camille-brodard-14854887 (1080p).mp4" width="560" height="300" poster="deliciosos-graos-de-cafe-e-xicara_23-2150691429.avif" controls loop>
+        <source src="Pexels-Camille-Brodard-14854887 (1080P).mp4" type="video/mp4">
+        <source src="Pexels-Camille-Brodard-14854887 (1080P).mkv" type="video/mkv">
+        <source src="Pexels-Camille-Brodard-14854887 (1080P).webm" type="video/webm">
+    </video>
+    <!--A ordem importa bastante porque é através dela que o navegador irá tentar reproduzir os vídeos dentro dos formados em fila-->
+    <h1>Incorporando audios(músicas)</h1>
+    <aud><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6TA5aymvVrtiPVbuAwmPIc?utm_source=generator" width="50%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <h1>Incorporando vídeos do youtube:</h1><!--Hospedagem externa-->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/azPN51IZyUo?si=70y6Xwd4dbO3Etn_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</body>
+</html>
