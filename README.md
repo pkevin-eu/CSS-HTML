@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites!
 
-<a href="paulokevin.github.io/CSS-HTMl/desafios/primeiro-projeto.html"> Executar 1° mini projeto.
+<a href="paulokevin.github.io/CSS-HTML/desafios/primeiro-projeto.html"> Executar 1° mini projeto.
