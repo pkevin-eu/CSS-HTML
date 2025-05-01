@@ -5,4 +5,4 @@ Estou aprendendo a criar sites!
 
 <a href="https://paulokevin.github.io/CSS-HTML/desafios/primeiro-projeto.html"> Executar 1° mini projeto.
 
-<a href="https://github.com/pkevin-eu/CSS-HTML/blob/main/desafios/d012/index2.html"> Executar meu 2° mini projeto
+<a href="https://github.com/pkevin-eu/CSS-HTML/desafios/d012/index.html"> Executar meu 2° mini projeto
